@@ -67,13 +67,10 @@ def sphinx_docstrings(num1, num2) -> int:
     do anything interesting, except for illustrating what
     the docstring of a very simple function looks like.
 
-        :param int num1: First number to add.
-        :param int num2: Second number to add.
-
-        :returns:  The sum of ``num1`` and ``num2``.
-
-        :rtype: int
-
-        :raises AnyError: If anything bad happens.
+    :param int num1: First number to add.
+    :param int num2: Second number to add.
+    :returns:  The sum of ``num1`` and ``num2``.
+    :rtype: int
+    :raises AnyError: If anything bad happens.
     """
     return num1 + num2
