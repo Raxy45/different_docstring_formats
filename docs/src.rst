@@ -1,9 +1,6 @@
 src package
 ===========
 
-Submodules
-----------
-
 src.maths module
 ----------------
 
@@ -12,10 +9,3 @@ src.maths module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: src
-   :members:
-   :undoc-members:
-   :show-inheritance:
